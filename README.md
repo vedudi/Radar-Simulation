@@ -1,8 +1,13 @@
-# React + Vite
+# Radar simülasyonu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🚀  Radar simülasyonu oluşturmak için React ve Redux gibi modern web teknolojilerini kullanan bir yazılım geliştirdim. 
 
-Currently, two official plugins are available:
+### 🛠️ Projemde, veri yönetimi için Redux Toolkit ve React ile bileşenler arası iletişim için React Redux'u tercih ettim. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 📡 Verileri almak ve göndermek için Axios'u kullandım ve kullanıcı arayüzü geliştirmek için Bootstrap ile stil verdim. 
+
+### 🗺️ Harita görüntüleme için Leaflet ve React Leaflet'i entegre ettim. Son olarak, sayfalama işlemleri için React Paginate'i kullandım. 
+
+### 💡 Bu projede, teknolojik becerilerimi ve problem çözme yeteneklerimi kullanarak, radar simülasyonu oluşturmak için bir dizi araç ve teknolojiyi etkili bir şekilde bir araya getirdim. 
+
+### 🤝 Detaylı bilgi ve işbirliği için iletişime geçmekten memnuniyet duyarım.
